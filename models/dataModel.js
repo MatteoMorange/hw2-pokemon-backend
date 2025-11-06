@@ -1,3 +1,5 @@
+// Mongoose schema for Pokémon data
+
 const mongoose = require('mongoose');
 
 const pokemonSchema = new mongoose.Schema({
