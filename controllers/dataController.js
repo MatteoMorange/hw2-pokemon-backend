@@ -1,3 +1,5 @@
+// Controller handles CRUD and question logic
+
 const Pokemon = require('../models/dataModel');
 
 // CREATE
